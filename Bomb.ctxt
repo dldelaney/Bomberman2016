@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=X\ Y
+comment0.target=Bomb(int,\ int)
+comment1.params=Nx
+comment1.target=void\ setX(int)
+comment2.params=Ny
+comment2.target=void\ setY(int)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=boolean\ checkIfExploded()
+numComments=6

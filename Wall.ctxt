@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wall()
+comment1.params=isAirN
+comment1.target=void\ setAir(boolean)
+comment2.params=
+comment2.target=boolean\ isAir()
+comment3.params=isDestructableN
+comment3.target=void\ setDestructable(boolean)
+comment4.params=
+comment4.target=boolean\ getDestructable()
+comment5.params=Nx
+comment5.target=void\ setX(int)
+comment6.params=Ny
+comment6.target=void\ setY(int)
+comment7.params=
+comment7.target=int\ getX()
+comment8.params=
+comment8.target=int\ getY()
+numComments=9
